@@ -1,0 +1,67 @@
+@media(max-width: 600px) {
+    .about-left{
+        width: 100% !important;
+    }
+    .about-right{
+        width: 100% !important;
+    }
+    .about-image img{
+        width: 100%;
+    }
+    .about-content{
+        flex-direction: column;
+    }
+    .about-left p{
+        width: 100%;
+    }
+    /* .about-image img{
+        width: 425px;
+    } */
+    /* skills */
+    .cardcss svg{
+        /* margin-left: 184px !important; */
+        /* align-items: center; */
+        font-size: 47px;
+        margin-top: 23px;
+        text-align: center !important;
+    }
+    .cardcss{
+        text-align: center;
+    }
+    /* Top bar */
+    .border{
+        width: 100%;
+    }
+    .btn{
+        flex-direction: row;
+    }
+    .btn a{
+        font-size: 10px;
+        margin-top: 5px;
+    }
+    .btn .resume{
+        font-size: 10px;
+    }
+    .btn .portfolio{
+        font-size: 10px;
+    }
+    /* about */
+    .container{
+        width: 100%;
+    }
+    /* .nav-bar ul li {
+        margin-left: 215px !important;
+    } */
+    /* project css */
+    .reacticon ul li{
+        flex-direction: column;
+        text-align: center;
+    }
+    .row{
+        flex-direction: column;
+    }
+    /* layout css */
+    .hideicon{
+        height: 250px;
+    }
+}

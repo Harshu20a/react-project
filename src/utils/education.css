@@ -1,0 +1,20 @@
+/* education css start */
+.vertical-timeline-element-date {
+  color: black;
+}
+.vertical-timeline.vertical-timeline--two-columns:before {
+  background: black;
+}
+.education-content h1 {
+  text-align: start;
+  font-size: 37px;
+  margin: 40px 0 20px;
+  /* font-weight: 600; */
+  text-transform: capitalize;
+  background-color: #f5f8fd;
+  padding-top: 10px;
+  height: 65px;
+  border-bottom: 3px solid rgb(143, 194, 172);
+  width: 200px;
+}
+/* education css end */

@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* about css start */
+.aboutus h2 {
+  text-align: start;
+  font-size: 37px;
+  margin: 19px;
+  /* font-weight: 600; */
+  text-transform: capitalize;
+  border-bottom: 3px solid rgb(143, 194, 172);
+  width:180px;
+}
+.about-content {
+  width: 100%;
+  display: flex;
+}
+.about-left {
+  width: 50%;
+}
+.about-left p {
+  line-height: 33.5px;
+  font-size: 19px;
+  font-family: emoji;
+  color: black;
+}
+.about-right {
+  width: 50%;
+  margin-left: auto;
+}
+.about-image img {
+  width: 100px;
+  object-fit: contain;
+  height: 200px;
+}
+/* about css end */
